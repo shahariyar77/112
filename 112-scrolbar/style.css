@@ -1,0 +1,38 @@
+
+body{
+    padding: 0;
+    margin: 0;
+    font-family: Montserrat,Philosopher,Roboto;
+    position: relative;
+    height: 100%;
+    
+}
+
+.another-scroolbar{
+	width:500px;
+	height:150px;
+	overflow:scroll;
+    margin: 0 auto;
+}
+.text-area{
+    background-image: url(img/spile.jpg);
+}
+/*========================   Nav manu ==================*/
+
+.section-padding {
+  padding: 60px 0;
+}
+.text-area {
+  background-size: cover;
+  background-position: center;
+  background-color: #ddd;
+  color: #fff;
+  text-align: center;
+  height: 100%;
+}
+
+
+
+
+
+
